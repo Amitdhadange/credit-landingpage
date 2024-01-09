@@ -1,4 +1,4 @@
 # credit-landingpage
-this is credit debit landing page 
+This is credit debit card landing page 
 
 https://amitdhadange.github.io/credit-landingpage/
